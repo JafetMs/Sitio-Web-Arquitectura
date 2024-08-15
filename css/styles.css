@@ -91,7 +91,7 @@ img{
 }
 
 
-/* @media (width >= 992px) {
+/* @media (width >= 768px) {
      .header{
         padding: 2rem 0;
      }
@@ -117,7 +117,7 @@ img{
 
 
 
-@media (width >= 992px) {
+@media (width >= 768px) {
     .site-name{
         font-size: 5rem;
     }
@@ -134,7 +134,7 @@ img{
     align-items: center;
 }
 
-@media (width >= 992px) {
+@media (width >= 768px) {
      .contact{
         align-items: flex-end;
      }
@@ -168,7 +168,7 @@ img{
     margin-top:.5rem;
 }
 
-@media (width >= 992px) {
+@media (width >= 768px) {
     .navegation{
         flex-direction: row;
         
@@ -186,7 +186,7 @@ img{
     background-color: rgb(255 255 255 / .5);
     color:black;
 }
-@media (width >= 992px) {
+@media (width >= 768px) {
      .navegation a{
         padding: 1rem 2rem;
      }
@@ -200,7 +200,7 @@ img{
   font-size: 3rem;
   margin:0;
 }
-@media (width >= 992px) {
+@media (width >= 768px) {
      .slogan{
         text-align: right;
 
@@ -234,7 +234,7 @@ img{
     margin-bottom: 1rem;
 }
 
-@media (width >= 992px) {
+@media (width >= 768px) {
      .us{
         grid-template-columns: repeat(3,1fr);
      }
@@ -270,7 +270,7 @@ img{
     background-image: url(../img/modelo_elite.jpg);
 }
 
-@media (width >= 992px) {
+@media (width >= 768px) {
      .model{
        grid-template-columns: repeat(2,1fr); 
      }
@@ -323,7 +323,7 @@ img{
 
 }
 
-@media (width >= 992px) {
+@media (width >= 768px) {
     .galery {
         grid-template-columns: repeat(3,1fr);   
     }
