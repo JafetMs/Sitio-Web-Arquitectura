@@ -9,6 +9,7 @@
 html{
     font-size: 62.5%;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 
 *,*:before, *:after{
@@ -19,7 +20,7 @@ body{
     font-family: var(--mainFont);
     font-size:1.6rem;
     line-height: 1.8;
-    overflow-x: hidden;
+    
 
 }
 
@@ -106,6 +107,8 @@ img{
 
 .site-name{
   font-weight: 300;
+  font-size: 4rem;
+  text-align: center;
 }
 
 .site-name span{
